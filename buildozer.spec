@@ -14,6 +14,7 @@ android.permissions = WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE
 
 android.api = 33
 android.min_api = 24
+android.sdk = 33
 android.ndk = 25b
 android.skip_update = False
 android.accept_sdk_license = True
