@@ -12,10 +12,10 @@ fullscreen = 0
 # Android için kritik izinler (Galeriye kayıt yapabilmek için)
 android.permissions = WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE
 
-android.api = 33
+android.api = 31
 android.min_api = 21
 android.ndk = 25b
-android.sdk = 30
+#
 p4a.branch = master
 
 [buildozer]
